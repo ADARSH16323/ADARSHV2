@@ -1,0 +1,22 @@
+{
+    "name": "CK Editor V2",
+    "short_name": "CK Editor",
+    "description": "Professional video editing tool",
+    "start_url": "/ADARSHV2/",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#ffd700",
+    "orientation": "portrait-or-landscape",
+    "icons": [
+        {
+            "src": "icons/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
